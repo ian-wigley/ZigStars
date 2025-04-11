@@ -4,6 +4,7 @@
     <option name="zlsPath" value="$USER_HOME$/Downloads/zls" />
   </component>
   <component name="ZigProjectSettings">
+    <option name="explicitPathToStd" value="/snap/zig/13822/lib/std" />
     <option name="toolchainPath" value="/snap/bin" />
   </component>
 </project>

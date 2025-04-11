@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da3d4790-c5f1-4b03-9157-707aafd97817" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../C64_binary_file_converter/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../C64_binary_file_converter/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C64_binary_file_converter/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C64_binary_file_converter/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C64_binary_file_converter/src/converter.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../../C64_binary_file_converter/src/converter.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C64_binary_file_converter/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../../C64_binary_file_converter/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/zigbrains.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/zigbrains.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.zig" beforeDir="false" afterPath="$PROJECT_DIR$/build.zig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.zig.zon" beforeDir="false" afterPath="$PROJECT_DIR$/build.zig.zon" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.zig" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.zig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stars.zig" beforeDir="false" afterPath="$PROJECT_DIR$/src/stars.zig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Zig_8080_Emulator/build.zig" beforeDir="false" afterPath="$PROJECT_DIR$/../../Zig_8080_Emulator/build.zig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Zig_8080_Emulator/src/main.zig" beforeDir="false" afterPath="$PROJECT_DIR$/../../Zig_8080_Emulator/src/main.zig" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ian-wigley"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ian-wigley/Various-unfinished-projects.git",
+    "accountId": "d8781521-a652-43cd-8fcf-15b12621ffed"
+  }
+}]]></component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="qgb4BIXU" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2vaFEBMkA9q8btkHbd8Iyf3knxG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "Zig build.ZigBuild!.executor": "Debug",
+    "Zig build.ZigDebug!.executor": "Debug",
+    "Zig run.ZigRun!.executor": "Debug",
+    "Zig run.main.zig.executor": "Run",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/ian/Downloads/zls",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.first.attach.projects": "true",
+    "settings.editor.selected.configurable": "ZigConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Zig build.ZigDebug!">
+    <configuration name="ZigDebug!" type="ZIGBRAINS_BUILD" factoryName="ZIGBRAINS_BUILD">
+      <ZigBrainsOption name="workingDirectory" value="$PROJECT_DIR$" />
+      <ZigBrainsOption name="buildSteps" value="" />
+      <ZigBrainsOption name="compilerArgs" value="" />
+      <ZigBrainsOption name="debugBuildSteps" value="" />
+      <ZigBrainsOption name="debugCompilerArgs" value="" />
+      <ZigBrainsOption name="exePath" value="" />
+      <ZigBrainsOption name="exeArgs" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ZigRun!" type="ZIGBRAINS_RUN" factoryName="ZIGBRAINS_RUN">
+      <ZigBrainsOption name="workingDirectory" value="$PROJECT_DIR$" />
+      <ZigBrainsOption name="filePath" value="$PROJECT_DIR$/src/main.zig" />
+      <ZigBrainsNestedOption name="optimization">
+        <ZigBrainsOption name="level" value="Debug" />
+        <ZigBrainsOption name="forced" value="false" />
+      </ZigBrainsNestedOption>
+      <ZigBrainsOption name="compilerArgs" value="" />
+      <ZigBrainsOption name="exeArgs" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.zig" type="ZIGBRAINS_RUN" factoryName="ZIGBRAINS_RUN" temporary="true">
+      <ZigBrainsOption name="workingDirectory" value="$PROJECT_DIR$" />
+      <ZigBrainsOption name="filePath" value="$PROJECT_DIR$/src/main.zig" />
+      <ZigBrainsNestedOption name="optimization">
+        <ZigBrainsOption name="level" value="Debug" />
+        <ZigBrainsOption name="forced" value="false" />
+      </ZigBrainsNestedOption>
+      <ZigBrainsOption name="compilerArgs" value="" />
+      <ZigBrainsOption name="exeArgs" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Zig build.ZigDebug!" />
+      <item itemvalue="Zig run.ZigRun!" />
+      <item itemvalue="Zig run.main.zig" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Zig run.main.zig" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da3d4790-c5f1-4b03-9157-707aafd97817" name="Changes" comment="" />
+      <created>1744375164058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744375164058</updated>
+      <workItem from="1744375165359" duration="1825000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/main.zig</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/main.zig</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
