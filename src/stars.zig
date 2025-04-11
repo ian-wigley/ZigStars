@@ -12,12 +12,12 @@ pub const Star = struct {
     rand: std.Random,
 
     pub fn new(x: i32, y: i32, rand: std.Random) Star {
-        return Star {
+        return Star{
             .x = x,
             .y = y,
             .z = 0,
             .angle = @floatFromInt(rand.intRangeAtMost(u16, 0, 360)),
-            .speed= 0.0,
+            .speed = 0.0,
             .width = 800,
             .height = 600,
             .rand = rand,
@@ -37,12 +37,12 @@ pub const Star = struct {
         if (self.x < 0 or self.x > self.width or self.y < 0 or self.y > self.height) {
             // print("Angle before update: {any}", .{self.angle});
             const t: f64 = @floatFromInt(self.rand.intRangeAtMost(u16, 0, 360));
-            self.angle = t * 3.142/180;
+            self.angle = t * 3.142 / 180;
             self.speed = 0.01;
             self.x = 400;
             self.y = 300;
             // print("Angle after update: {any}", .{self.angle});
             //
-            }
+        }
     }
 };
